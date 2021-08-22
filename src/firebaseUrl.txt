@@ -1,0 +1,4 @@
+//use a Google account and create a firebase realtime database
+export const FIREBASE_BASE_URL = "https://XXXXX.firebaseio.com/";
+export const MEALS_NODE = "meals.json";
+export const ORDERS_NODE = "orders.json";
